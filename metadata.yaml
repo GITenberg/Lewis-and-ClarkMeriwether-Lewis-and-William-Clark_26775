@@ -1,0 +1,31 @@
+_repo: Lewis-and-ClarkMeriwether-Lewis-and-William-Clark_26775
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lighton, William R. (William Rheem)
+    birthdate: 1866
+    deathdate: 1923
+    gutenberg_agent_id: '32232'
+    url: http://www.gutenberg.org/2009/agents/32232
+description: ''
+gutenberg_issued: '2008-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26775'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Riverside Biographical Series, number 8
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Clark, William, 1770-1838'
+- !lcsh 'Lewis, Meriwether, 1774-1809'
+- !lcsh 'Lewis and Clark Expedition (1804-1806)'
+title: 'Lewis and Clark
+
+  Meriwether Lewis and William Clark'
+url: http://www.gutenberg.org/ebooks/26775
